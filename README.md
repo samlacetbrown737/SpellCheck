@@ -1,3 +1,3 @@
 # SpellCheck
-Usage: java SpellChecker
+Usage: java SpellChecker\n
 Enter word as prompted
